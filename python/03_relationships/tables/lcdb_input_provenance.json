@@ -1,0 +1,63 @@
+{
+  "inputs_sha256": {
+    "data/PortHills2017_stack.tif": "e546667479bb333da4665247d7e9f611411dee4a376d8ec1ed4755e7c79c79a2",
+    "data/PortHills2017_ring_LCDB.tif": "f9892b111c22c901a94ff84a1275479e88e4e467b9311976ae53b69a2c4ba63c",
+    "data/lcdb/LCDB2012_PortHills_2500m.cpg": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+    "data/lcdb/LCDB2012_PortHills_2500m.dbf": "c9b491fde8976cd371be67823dbd5078af772c849aaf35a64169cd80cf2e7cc1",
+    "data/lcdb/LCDB2012_PortHills_2500m.prj": "88bd23f89ba5f90b5393a5c2beefc832a6432ac4dda895237c2bb098c5965908",
+    "data/lcdb/LCDB2012_PortHills_2500m.shp": "c34a452cc387c1239d358c351d2eab4ca74569b3a3bf0d6ce17169a521777051",
+    "data/lcdb/LCDB2012_PortHills_2500m.shx": "1a08429474b1b30ea245f362325d537a60232cb5c04d2060eabfb643b627c989",
+    "python/03_relationships/00_build_regression_inputs.py": "b620afdfd4337855cf6fb41ca0023e24dddd305c73b48985f7382d64746c8ff1",
+    "python/03_relationships/shp.py": "91a24ab43a7278c5ad928083e24c6c15e6e15799228210f35ca0e7ebbccc038d",
+    "python/03_relationships/A3_R4_regression_io.py": "50b4747071cb307c9bf6e54da7d809e75bd06c0b92d200af70ed1bb9066b20c9"
+  },
+  "grid": {
+    "crs": "EPSG:2193",
+    "transform": [
+      30.0,
+      0.0,
+      1565580.0,
+      0.0,
+      -30.0,
+      5174310.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "height": 205,
+    "width": 200
+  },
+  "rasterisation": "original 3x3 sub-sample majority; lowest-code tie break",
+  "own_offset_classes": [
+    40,
+    41,
+    51,
+    52,
+    54,
+    71
+  ],
+  "pooled_vegetation_classes": [
+    40,
+    41,
+    50,
+    51,
+    52,
+    54,
+    56,
+    69,
+    71
+  ],
+  "offsets": {
+    "40": 93.44364166259766,
+    "41": 92.37197875976562,
+    "51": 70.91638946533203,
+    "52": 103.06401824951172,
+    "54": 60.89082336425781,
+    "71": 48.49873352050781,
+    "0": 82.01670837402344
+  },
+  "threshold": 91.58198547363281,
+  "commission": 0.059273242095327985,
+  "island_cells": 1110,
+  "finite_response_cells": 18539
+}

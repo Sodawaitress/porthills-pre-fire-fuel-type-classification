@@ -1,0 +1,9 @@
+class_id,name,control_cells,mean,median,sd
+40,High Producing Exotic Grassland,10780.0,93.44,96.29,66.83
+41,Low Producing Grassland,1915.0,92.37,94.79,42.83
+51,Gorse and/or Broom,3098.0,70.92,65.16,55.32
+52,Manuka and/or Kanuka,745.0,103.06,102.2,35.98
+54,Broadleaved Indigenous Hardwoods,2764.0,60.89,61.09,49.75
+71,Exotic Forest,1603.0,48.5,37.7,94.14
+0,pooled vegetation (all other classes),21190.0,82.02,83.4,64.94
+-1,threshold T = island p90; commission = 5.9%,,91.58,,

@@ -1,0 +1,7 @@
+pair,pre 6 bands,pre+spring 12 bands,spring 6 bands
+broadleaf_scrub|exotic_pine,1.78,1.98,1.5
+gorse_broom|broadleaf_scrub,0.85,1.64,0.95
+gorse_broom|exotic_pine,1.61,1.91,1.57
+pasture|broadleaf_scrub,1.69,1.95,1.41
+pasture|exotic_pine,1.76,1.95,1.75
+pasture|gorse_broom,1.47,1.85,1.25

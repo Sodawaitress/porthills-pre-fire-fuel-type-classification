@@ -1,0 +1,6 @@
+"type","n","ha","pct","jan16_share_pct","decision"
+"Within fences",17713,1594.17,95.33,4.2,"-"
+"Dense canopy (high NIR)",724,65.16,3.9,0,"Keep + flag"
+"Bright sparse surface",78,7.02,0.42,0,"Keep + flag"
+"Topographic shadow (low NIR)",5,0.45,0.03,100,"Keep + flag"
+"Steep terrain",61,5.49,0.33,26.2,"Keep + flag"

@@ -1,0 +1,39 @@
+{
+  "verified_date": "2026-10-10",
+  "paths_relative_to": "repository root",
+  "files": {
+    "data/PortHills2017_stack.tif": {
+      "bands": 32,
+      "sha256": "e546667479bb333da4665247d7e9f611411dee4a376d8ec1ed4755e7c79c79a2"
+    },
+    "data/PortHills2016_spring.tif": {
+      "bands": 9,
+      "sha256": "9d462dfb6f1033076189ad7d844b59f46ade017e15567a22c950ff9694197068"
+    },
+    "data/PortHills2017_ring_LCDB.tif": {
+      "bands": 11,
+      "sha256": "f9892b111c22c901a94ff84a1275479e88e4e467b9311976ae53b69a2c4ba63c"
+    },
+    "data/A3_reference_cells.csv": {
+      "sha256": "284e05dfc3806d30f3c14f4cc9e5f0236971ee83701895443f96bafd77503b4f"
+    },
+    "data/cleared_pine_blocks.geojson": {
+      "sha256": "ff947f7b39853478d5dcf32f3e72a745d1cae7c6d437f278d5610710b4d68b6c"
+    },
+    "data/lcdb/LCDB2012_PortHills_2500m.shp": {
+      "sha256": "c34a452cc387c1239d358c351d2eab4ca74569b3a3bf0d6ce17169a521777051"
+    },
+    "data/lcdb/LCDB2012_PortHills_2500m.shx": {
+      "sha256": "1a08429474b1b30ea245f362325d537a60232cb5c04d2060eabfb643b627c989"
+    },
+    "data/lcdb/LCDB2012_PortHills_2500m.dbf": {
+      "sha256": "c9b491fde8976cd371be67823dbd5078af772c849aaf35a64169cd80cf2e7cc1"
+    },
+    "data/lcdb/LCDB2012_PortHills_2500m.prj": {
+      "sha256": "88bd23f89ba5f90b5393a5c2beefc832a6432ac4dda895237c2bb098c5965908"
+    },
+    "data/lcdb/LCDB2012_PortHills_2500m.cpg": {
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    }
+  }
+}

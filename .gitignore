@@ -1,0 +1,25 @@
+# rasters and arrays are rebuilt by the scripts, except the three inputs in data/
+*.tif
+*.tiff
+*.npy
+*.zip
+*.pdf
+*.docx
+~$*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# data/: only the inputs the scripts need
+/data/*
+!/data/README.md
+!/data/input_manifest.json
+!/data/A3_reference_cells.csv
+!/data/cleared_pine_blocks.geojson
+!/data/PortHills2017_stack.tif
+!/data/PortHills2016_spring.tif
+!/data/PortHills2017_ring_LCDB.tif
+!/data/lcdb/
+!/data/shapefiles_training_points/
+

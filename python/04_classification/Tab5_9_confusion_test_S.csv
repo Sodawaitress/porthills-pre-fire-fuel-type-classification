@@ -1,0 +1,5 @@
+,map_pasture,map_gorse_broom,map_broadleaf_scrub,map_exotic_pine
+ref_pasture,13,3,1,5
+ref_gorse_broom,9,6,6,1
+ref_broadleaf_scrub,1,7,14,0
+ref_exotic_pine,3,4,1,14
